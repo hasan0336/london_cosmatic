@@ -1,0 +1,93 @@
+/* RESPONSIVE CSS here*/
+
+/*Mobiles Devices*/
+  @media (max-width: 575px) {
+    .section7-heading h2 {
+      font-size: 22px;
+    }
+    .section6 {
+      padding: 16px;
+    }
+    .section6-left h3 img {
+      width: 10px;
+      margin-left: 5px;
+    }
+    .section6-left h3 {
+      font-size: 16px;
+    }
+    .section5 {
+      padding: 50px 0;
+    }
+    .section5-heading h2 {
+      font-size: 26px;
+    }
+    .section5-heading p {
+      font-size: 20px;
+    }
+    .section4-left {
+      padding: 10px;
+    }
+    .section4-left h2 {
+      font-size: 30px;
+    }
+    .section4-left h3 {
+      font-size: 18px;
+    }
+    .section3-right {
+      padding: 20px;
+    }
+    .section2-box {
+      margin-bottom: 20px;
+    }
+    .section2-heading h2 {
+      font-size: 26px;
+    }
+    .section1-heading h2 {
+      font-size: 30px;
+    }
+    .section1-left h3 {
+      font-size: 22px;
+    }
+    .section1 {
+      padding: 20px 0;
+    }
+    .home-right .bg-heading {
+      padding: 10px 50px;
+    }
+    .home-right h1 {
+      font-size: 24px;
+    }
+    .home-right h3 {
+      font-size: 30px;
+    }
+    .home-right {
+      padding: 50px 0;
+    }
+    .home-section {
+      background-image: none;
+    }
+    .navLeft, .navRight{
+      display: none;
+    }
+  }
+
+  /*IPAD*/
+  @media (min-width: 768px) and (max-width: 991px) {
+/*     body {
+      background-color: yellow;
+    } */
+  }
+
+  /*IPAD PRO*/
+  @media (min-width: 992px) and (max-width: 1199px) {
+/*     body {
+      background-color: lightgreen;
+    } */
+  }
+
+  /*Large Devices*/
+  @media (min-width: 1920px) {
+/*     body {
+      background-color: lightblue;
+    } */
+  }

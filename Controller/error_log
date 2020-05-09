@@ -1,0 +1,1244 @@
+[13-Jan-2020 03:24:25 America/New_York] PHP Warning:  include_once(DB_Connection.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/ofthecornernew/Model/LoginModel.php on line 3
+[13-Jan-2020 03:24:25 America/New_York] PHP Warning:  include_once(): Failed opening 'DB_Connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/ofthecornernew/Model/LoginModel.php on line 3
+[13-Jan-2020 03:24:25 America/New_York] PHP Fatal error:  Class 'DB_Connection' not found in /home/offtqnfa/public_html/ofthecornernew/Model/LoginModel.php on line 4
+[15-Jan-2020 18:47:04 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 18:47:12 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 18:47:35 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 18:50:27 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 19:00:38 America/New_York] PHP Notice:  Undefined variable: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 19:00:38 America/New_York] PHP Warning:  A non-numeric value encountered in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 19:01:13 America/New_York] PHP Notice:  Undefined variable: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 19:01:13 America/New_York] PHP Warning:  A non-numeric value encountered in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 19:01:27 America/New_York] PHP Notice:  Undefined variable: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[15-Jan-2020 19:01:27 America/New_York] PHP Warning:  A non-numeric value encountered in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 01:54:38 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[16-Jan-2020 01:54:38 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 01:54:38 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 6
+[16-Jan-2020 22:32:40 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:34:19 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:35:13 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:35:57 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:36:10 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[16-Jan-2020 22:36:10 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:36:10 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 6
+[16-Jan-2020 22:37:13 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:37:19 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:38:39 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:39:02 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[16-Jan-2020 22:39:02 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:39:02 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 6
+[16-Jan-2020 22:39:23 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[16-Jan-2020 22:42:54 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[17-Jan-2020 00:09:21 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:10:53 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:12:16 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:15:27 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:16:30 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:16:31 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:16:31 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:18:48 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:19:56 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:19:56 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:22:53 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:23:17 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:23:40 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:25:04 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:25:38 America/New_York] PHP Notice:  Undefined index: totalprice in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 11
+[17-Jan-2020 00:28:23 America/New_York] PHP Notice:  Undefined variable: db_query in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:28:29 America/New_York] PHP Notice:  Undefined variable: db_query in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:28:29 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:28:31 America/New_York] PHP Notice:  Undefined variable: db_query in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:28:31 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:28:31 America/New_York] PHP Notice:  Undefined variable: db_query in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:28:31 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:29:27 America/New_York] PHP Notice:  Undefined variable: db_query in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:29:28 America/New_York] PHP Notice:  Undefined variable: db_query in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[17-Jan-2020 00:29:28 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 23
+[19-Jan-2020 09:05:39 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[19-Jan-2020 09:05:39 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[22-Jan-2020 09:50:38 America/New_York] PHP Notice:  Undefined index: editor1 in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 5
+[27-Jan-2020 01:04:06 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('$ 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', '$ 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 01:05:09 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('$ 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', '$ 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 01:05:46 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 01:06:33 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 01:10:40 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 01:13:06 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 02:13:30 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 02:15:08 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(15): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 02:21:49 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:83
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_desction('Duis aute irure...')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(20): Product->__set('product_desctio...', 'Duis aute irure...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 83
+[27-Jan-2020 02:22:10 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:83
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_desction('Duis aute irure...')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(20): Product->__set('product_desctio...', 'Duis aute irure...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 83
+[27-Jan-2020 02:25:36 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:83
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_desction('Duis aute irure...')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(20): Product->__set('product_desctio...', 'Duis aute irure...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 83
+[27-Jan-2020 02:33:58 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(45): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[27-Jan-2020 02:34:12 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(45): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[27-Jan-2020 02:34:55 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:83
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_desction('Duis aute irure...')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(20): Product->__set('product_desctio...', 'Duis aute irure...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 83
+[27-Jan-2020 02:35:03 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(45): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[27-Jan-2020 02:35:16 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:35:16 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:36:54 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:36:54 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:36:58 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:36:58 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:38:06 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:38:06 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:38:08 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:38:08 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:38:11 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:38:11 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:38:55 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:38:55 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:39:08 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(45): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[27-Jan-2020 02:39:18 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(45): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[27-Jan-2020 02:39:41 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(45): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[27-Jan-2020 02:41:01 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:41:01 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:41:05 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:41:05 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:41:10 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:41:10 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:41:43 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 10
+[27-Jan-2020 02:41:43 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(10): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:42:11 America/New_York] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE) in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 64
+[27-Jan-2020 02:43:36 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 9
+[27-Jan-2020 02:43:36 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(9): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:44:32 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php on line 9
+[27-Jan-2020 02:44:32 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:48
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_name(NULL)
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(9): Product->__set('product_name', NULL)
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 48
+[27-Jan-2020 02:48:40 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:83
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_desction('Duis aute irure...')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(19): Product->__set('product_desctio...', 'Duis aute irure...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 83
+[27-Jan-2020 02:52:49 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:83
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_desction('Duis aute irure...')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(19): Product->__set('product_desctio...', 'Duis aute irure...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 83
+[27-Jan-2020 02:58:36 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 02:59:16 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 03:00:34 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 03:02:22 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('$ 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '$ 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 03:06:06 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 03:09:04 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 03:09:09 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price(' 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', ' 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 03:09:24 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 03:09:24 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 03:09:24 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 03:15:46 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('$ 220')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '$ 220')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 03:32:54 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 03:33:12 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 08:17:49 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('\xC2\xA320')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '\xC2\xA320')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 08:18:47 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('\xC2\xA320')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '\xC2\xA320')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 10
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: pprice in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 15
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: pdes in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 20
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: category in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 25
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: size in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 30
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: color in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 35
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: style in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 40
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: brand in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 45
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: product_image in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 50
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: product_image1 in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 55
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined index: product_image2 in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 60
+[27-Jan-2020 09:35:18 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: pname in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 10
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: pprice in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 15
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: pdes in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 20
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: category in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 25
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: size in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 30
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: color in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 35
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: style in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 40
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: brand in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 45
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: product_image in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 50
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: product_image1 in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 55
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined index: product_image2 in /home/offtqnfa/public_html/ofthecornernew/Controller/updateproductcontroller.php on line 60
+[27-Jan-2020 09:36:17 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 12:06:07 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:95
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_size('S, M, L, XL')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(29): Product->__set('product_size', 'S, M, L, XL')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 95
+[27-Jan-2020 12:07:08 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:95
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_size('S, M, L, XL')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(29): Product->__set('product_size', 'S, M, L, XL')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 95
+[27-Jan-2020 12:33:45 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('\xC2\xA320')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '\xC2\xA320')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 12:52:06 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('\xC2\xA320')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '\xC2\xA320')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 12:54:26 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('\xC2\xA320')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '\xC2\xA320')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 12:58:40 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Price in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:59
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_price('\xC2\xA320')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(14): Product->__set('product_price', '\xC2\xA320')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 59
+[27-Jan-2020 12:59:21 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 12:59:21 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 13:35:17 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 13:35:17 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 13:35:17 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 13:36:16 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 13:36:16 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 13:36:16 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 13:36:46 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 13:36:46 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 13:36:46 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 13:37:02 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 13:37:02 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 13:37:02 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 13:41:46 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 13:41:46 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 13:41:46 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 14:27:29 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 14:27:29 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 14:27:29 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 14:35:37 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 14:35:37 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 14:35:37 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 14:36:21 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 14:36:21 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 14:36:21 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 14:43:35 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 14:43:35 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 14:43:35 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[27-Jan-2020 14:44:11 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[27-Jan-2020 14:44:11 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[27-Jan-2020 14:44:11 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 08:58:04 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 08:58:04 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 09:03:20 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 09:03:20 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 12:51:07 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 12:51:16 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 12:53:46 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 13:10:15 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 13:10:57 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 13:11:41 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 13:13:27 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 13:13:56 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 13:22:39 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 13:22:39 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 14:16:01 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 14:16:01 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 14:17:14 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 14:17:14 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 14:17:56 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 14:17:56 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 19:55:30 America/New_York] PHP Notice:  Undefined index: heading in /home/offtqnfa/public_html/ofthecornernew/Controller/footer-page.php on line 4
+[28-Jan-2020 19:58:36 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 167
+[28-Jan-2020 19:58:36 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 19:58:36 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 20:17:03 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:95
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_size('S, M, L, XL')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(29): Product->__set('product_size', 'S, M, L, XL')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 95
+[28-Jan-2020 21:01:39 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(44): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[28-Jan-2020 21:33:20 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(44): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[28-Jan-2020 21:33:35 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Brand in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:131
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_brand('Select Brand')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(44): Product->__set('product_brand', 'Select Brand')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 131
+[28-Jan-2020 21:47:33 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 21:47:33 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[28-Jan-2020 22:49:28 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 200
+[28-Jan-2020 22:49:28 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:07:36 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:09:01 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:14:32 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:71
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_category('Select Category')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(24): Product->__set('product_categor...', 'Select Category')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 71
+[29-Jan-2020 02:14:49 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:71
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_category('Select Category')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(24): Product->__set('product_categor...', 'Select Category')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 71
+[29-Jan-2020 02:15:07 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:22:04 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Select Product Color in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:119
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_color('Select Color')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(34): Product->__set('product_color', 'Select Color')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 119
+[29-Jan-2020 02:22:21 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:25:58 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:41:11 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:42:25 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:44:51 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[29-Jan-2020 02:45:41 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 233
+[30-Jan-2020 11:36:07 America/New_York] PHP Notice:  Undefined index: qty in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 20
+[30-Jan-2020 11:36:20 America/New_York] PHP Notice:  Undefined index: qty in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 20
+[30-Jan-2020 11:36:25 America/New_York] PHP Notice:  Undefined index: qty in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 20
+[30-Jan-2020 11:36:36 America/New_York] PHP Notice:  Undefined index: qty in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 20
+[30-Jan-2020 12:17:52 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 12:17:57 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 12:18:10 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 12:18:14 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 12:18:23 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 12:18:27 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 12:18:43 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 12:18:48 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 13:15:57 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 13:16:27 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 13:31:04 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 13:31:29 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 13:32:02 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 13:57:36 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 13:58:46 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 14:31:19 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 14:31:22 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 14:31:31 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:00:58 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:01:02 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:01:12 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:09:54 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:10:00 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:10:20 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:10:24 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:10:29 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:10:33 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:10:38 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:42:13 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:42:44 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:43:48 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 15:43:57 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:11:22 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:11:56 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:12:11 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:12:29 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:14:56 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:15:54 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:16:11 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:16:31 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:16:40 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:16:42 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:17:42 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 18
+[30-Jan-2020 16:21:48 America/New_York] PHP Notice:  Undefined variable: result in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 13
+[30-Jan-2020 16:21:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/cart.php on line 13
+[31-Jan-2020 00:47:09 America/New_York] PHP Notice:  Undefined variable: id in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 16
+[31-Jan-2020 00:52:25 America/New_York] PHP Notice:  Undefined variable: id in /home/offtqnfa/public_html/ofthecornernew/Controller/ordercontroller.php on line 17
+[31-Jan-2020 14:04:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Slider' not found in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 6
+[31-Jan-2020 14:04:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Slider' not found in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 6
+[31-Jan-2020 14:05:58 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:05:58 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:06:55 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:06:55 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 13
+[31-Jan-2020 14:07:17 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:07:17 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:07:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 13
+[31-Jan-2020 14:07:22 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:07:22 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:07:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 13
+[31-Jan-2020 14:08:01 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:08:01 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:08:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 13
+[31-Jan-2020 14:08:28 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:08:28 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:08:32 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:08:32 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:08:56 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:08:56 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:10:06 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:10:06 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:10:47 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:10:47 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:10:57 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:10:57 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:11:55 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:11:55 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:11:59 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:11:59 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:15:29 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:15:29 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:15:42 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:15:42 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:16:36 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:16:36 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:17:42 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:17:42 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:20:20 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:20:20 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:20:37 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:21:41 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:22:49 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:23:35 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:25:41 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:28:41 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:29:19 America/New_York] PHP Notice:  Undefined variable: sliderimage in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:37:30 America/New_York] PHP Notice:  Array to string conversion in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:37:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 16
+[31-Jan-2020 14:39:19 America/New_York] PHP Notice:  Array to string conversion in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:39:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 16
+[31-Jan-2020 14:41:02 America/New_York] PHP Notice:  Array to string conversion in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 8
+[31-Jan-2020 14:41:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 16
+[31-Jan-2020 14:41:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 16
+[31-Jan-2020 14:42:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 17
+[31-Jan-2020 14:44:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function UpdateSlider() in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 16
+[31-Jan-2020 23:15:37 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 39
+[01-Feb-2020 00:57:32 America/New_York] PHP Fatal error:  Cannot redeclare Slider::set_imagedimension() in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 74
+[01-Feb-2020 00:57:47 America/New_York] PHP Fatal error:  Cannot redeclare Slider::set_imagedimension() in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 74
+[01-Feb-2020 01:18:28 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:18:28 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:18:28 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:18:28 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:18:28 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:18:46 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:18:46 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:18:46 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:18:46 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:18:46 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:19:55 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:19:55 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:19:55 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:19:55 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:19:55 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:20:00 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:20:00 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:20:00 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:20:00 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:20:00 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:20:11 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:20:11 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:20:11 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:20:11 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:20:11 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:20:37 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:20:37 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:20:37 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:20:37 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:20:37 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:20:37 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:21:52 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:21:52 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:21:52 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:21:52 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:21:52 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:21:52 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:22:08 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:22:08 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:22:08 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:22:08 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:22:08 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:22:08 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:22:20 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:22:20 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:22:20 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:22:20 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:22:20 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:22:20 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:23:23 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:23:23 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:23:49 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:23:49 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:33:13 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:33:13 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:33:51 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:33:51 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:34:47 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:34:47 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:36:45 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:38:07 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:38:07 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:38:07 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:38:07 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:38:07 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:38:07 America/New_York] PHP Notice:  Undefined index: hidden1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:38:13 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:38:13 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:38:13 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:38:13 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:38:13 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:38:13 America/New_York] PHP Notice:  Undefined index: hidden1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:38:23 America/New_York] PHP Notice:  Undefined index: imagedimension1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 9
+[01-Feb-2020 01:38:23 America/New_York] PHP Notice:  Undefined index: heading1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:38:23 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:38:23 America/New_York] PHP Notice:  Undefined index: description1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 21
+[01-Feb-2020 01:38:23 America/New_York] PHP Notice:  Undefined index: url1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 26
+[01-Feb-2020 01:38:23 America/New_York] PHP Notice:  Undefined index: hidden1 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 31
+[01-Feb-2020 01:39:30 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:40:49 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:42:43 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:43:03 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:51:33 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:51:33 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:51:37 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:51:37 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:52:16 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:52:16 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:58:54 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:58:54 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 01:59:22 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 01:59:22 America/New_York] PHP Notice:  Undefined variable: heading in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 78
+[01-Feb-2020 02:00:43 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:00:47 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:01:15 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:02:53 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:02:55 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:03:02 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:03:37 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:03:53 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:03:56 America/New_York] PHP Notice:  Undefined index: heading112 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:05:03 America/New_York] PHP Notice:  Undefined index: heading12 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:05:07 America/New_York] PHP Notice:  Undefined index: heading12 in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 15
+[01-Feb-2020 02:11:21 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:11:21 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 36
+[01-Feb-2020 02:11:34 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:11:34 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 36
+[01-Feb-2020 02:11:47 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:11:47 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 36
+[01-Feb-2020 02:16:58 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:16:58 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 36
+[01-Feb-2020 02:18:48 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:18:48 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 36
+[01-Feb-2020 02:19:02 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:19:02 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 36
+[01-Feb-2020 02:20:19 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:20:19 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 36
+[01-Feb-2020 02:21:40 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 02:22:53 America/New_York] PHP Notice:  Undefined index: hidden in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 33
+[01-Feb-2020 12:58:17 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 59
+[01-Feb-2020 12:58:17 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 63
+[01-Feb-2020 13:01:52 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 59
+[01-Feb-2020 13:01:52 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 63
+[01-Feb-2020 13:32:11 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 8
+[01-Feb-2020 13:32:32 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 8
+[01-Feb-2020 13:32:40 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 8
+[01-Feb-2020 14:14:15 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 8
+[01-Feb-2020 15:05:12 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:95
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_size('S, M, L, XL')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(29): Product->__set('product_size', 'S, M, L, XL')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 95
+[01-Feb-2020 15:05:35 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:95
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(31): Product->set_product_size('S, M, L, XL')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(29): Product->__set('product_size', 'S, M, L, XL')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 95
+[01-Feb-2020 15:27:10 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 59
+[01-Feb-2020 15:27:10 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 63
+[01-Feb-2020 15:27:29 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Slider.php on line 85
+[01-Feb-2020 15:27:29 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 59
+[01-Feb-2020 15:27:29 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 63
+[01-Feb-2020 15:28:30 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 59
+[01-Feb-2020 15:28:30 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 63
+[01-Feb-2020 15:31:50 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 8
+[01-Feb-2020 15:32:14 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 8
+[01-Feb-2020 15:32:51 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/ofthecornernew/Controller/sliderdetailsadd.php on line 8
+[01-Feb-2020 15:35:44 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 59
+[01-Feb-2020 15:35:44 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 63
+[01-Feb-2020 15:36:28 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 59
+[01-Feb-2020 15:36:28 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/ofthecornernew/Controller/slidercontroller.php on line 63
+[03-Feb-2020 01:41:48 America/New_York] PHP Notice:  Undefined index: category in /home/offtqnfa/public_html/ofthecornernew/Controller/addcategorycontroller.php on line 9
+[03-Feb-2020 08:33:10 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Description in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php:139
+Stack trace:
+#0 /home/offtqnfa/public_html/ofthecornernew/Model/Product.php(37): Product->set_product_size('S, M, L, XL')
+#1 /home/offtqnfa/public_html/ofthecornernew/Controller/addproduct.php(51): Product->__set('product_size', 'S, M, L, XL')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 139
+[03-Feb-2020 12:38:27 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 221
+[03-Feb-2020 12:38:27 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 254
+[03-Feb-2020 12:38:27 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 287
+[04-Feb-2020 06:05:59 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 254
+[04-Feb-2020 06:05:59 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 287
+[04-Feb-2020 06:52:23 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 246
+[04-Feb-2020 06:52:23 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/ofthecornernew/Model/Product.php on line 279
+[05-Feb-2020 03:04:22 America/New_York] PHP Notice:  Undefined variable: product_image in /home/offtqnfa/public_html/Model/Product.php on line 712
+[05-Feb-2020 03:04:22 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[05-Feb-2020 03:04:22 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[05-Feb-2020 03:05:16 America/New_York] PHP Notice:  Undefined variable: product_image in /home/offtqnfa/public_html/Model/Product.php on line 712
+[05-Feb-2020 03:05:16 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[05-Feb-2020 03:05:16 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[05-Feb-2020 03:05:53 America/New_York] PHP Notice:  Undefined variable: product_image in /home/offtqnfa/public_html/Model/Product.php on line 712
+[05-Feb-2020 03:05:53 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[05-Feb-2020 03:05:53 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[06-Feb-2020 06:45:08 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[06-Feb-2020 06:45:42 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[07-Feb-2020 11:06:35 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[08-Feb-2020 13:26:10 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[10-Feb-2020 05:46:58 America/New_York] PHP Notice:  Undefined variable: payment_source in /home/offtqnfa/public_html/Controller/ordercontroller.php on line 18
+[10-Feb-2020 05:47:05 America/New_York] PHP Notice:  Undefined variable: payment_source in /home/offtqnfa/public_html/Controller/ordercontroller.php on line 18
+[10-Feb-2020 05:47:25 America/New_York] PHP Notice:  Undefined variable: payment_source in /home/offtqnfa/public_html/Controller/ordercontroller.php on line 18
+[15-Feb-2020 08:19:56 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[15-Feb-2020 09:17:00 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:39:19 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:39:50 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:39:51 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:40:13 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:41:45 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:42:23 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:43:29 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:44:15 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:44:37 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:44:58 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:45:18 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:45:46 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 08:50:23 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[16-Feb-2020 10:23:23 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:23:23 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:23:30 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:23:30 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:26:56 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:26:56 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:27:51 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:27:51 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:27:51 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:27:51 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:27:52 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:27:52 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:27:52 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:27:52 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:49:52 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Slider.php on line 87
+[16-Feb-2020 10:49:52 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:49:52 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:57:56 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:57:56 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:57:59 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:57:59 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:57:59 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:57:59 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:01 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:01 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:03 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:03 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:03 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:03 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:08 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:08 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:08 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:08 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:08 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:08 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:09 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:09 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 10:58:09 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 10:58:09 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 12:19:20 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 12:19:20 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[16-Feb-2020 12:26:24 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[16-Feb-2020 12:26:24 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[04-Mar-2020 11:59:30 America/New_York] PHP Warning:  unlink(../SubProduct/test 123 /56413.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[04-Mar-2020 11:59:30 America/New_York] PHP Warning:  unlink(../SubProduct/test 123 /81956.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 11:59:33 America/New_York] PHP Warning:  unlink(../SubProduct/Stripe Sweater/4229.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 11:59:36 America/New_York] PHP Warning:  unlink(../SubProduct/Classic Topper/85763.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 11:59:41 America/New_York] PHP Warning:  unlink(../SubProduct/Cotton Jacket/95250.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 11:59:43 America/New_York] PHP Warning:  unlink(../SubProduct/Azure Tote/1983.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 12:00:00 America/New_York] PHP Warning:  unlink(../SubProduct/House Bird/36565.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 12:00:08 America/New_York] PHP Warning:  unlink(../SubProduct/State Sungalesses/51837.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 12:00:14 America/New_York] PHP Warning:  unlink(../SubProduct/Tassle Slip On/17256.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 12:00:27 America/New_York] PHP Warning:  unlink(../SubProduct/Suede Sneakers/58636.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 12:00:29 America/New_York] PHP Warning:  unlink(../SubProduct/Harman Blue Sneakers/71514.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[04-Mar-2020 12:25:33 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:27:23 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:28:32 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:29:32 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:30:33 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:31:32 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:32:17 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:32:56 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:33:29 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[04-Mar-2020 12:36:39 America/New_York] PHP Warning:  include_once(DB_Connection.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:36:39 America/New_York] PHP Warning:  include_once(): Failed opening 'DB_Connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:36:39 America/New_York] PHP Fatal error:  Class 'DB_Connection' not found in /home/offtqnfa/public_html/Model/AdminProfile.php on line 4
+[04-Mar-2020 12:36:53 America/New_York] PHP Warning:  include_once(DB_Connection.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:36:53 America/New_York] PHP Warning:  include_once(): Failed opening 'DB_Connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:36:53 America/New_York] PHP Fatal error:  Class 'DB_Connection' not found in /home/offtqnfa/public_html/Model/AdminProfile.php on line 4
+[04-Mar-2020 12:37:05 America/New_York] PHP Warning:  include_once(DB_Connection.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:37:05 America/New_York] PHP Warning:  include_once(): Failed opening 'DB_Connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:37:05 America/New_York] PHP Fatal error:  Class 'DB_Connection' not found in /home/offtqnfa/public_html/Model/AdminProfile.php on line 4
+[04-Mar-2020 12:37:34 America/New_York] PHP Warning:  include_once(DB_Connection.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:37:34 America/New_York] PHP Warning:  include_once(): Failed opening 'DB_Connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/Model/AdminProfile.php on line 3
+[04-Mar-2020 12:37:34 America/New_York] PHP Fatal error:  Class 'DB_Connection' not found in /home/offtqnfa/public_html/Model/AdminProfile.php on line 4
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'product_name' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'product_size' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'product_price' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'qty' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'total' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'order_id' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 47
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'total' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 49
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'fullname' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 50
+[04-Mar-2020 12:38:22 America/New_York] PHP Notice:  Trying to get property 'sale_date' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 51
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'product_name' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'product_size' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'product_price' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'qty' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'total' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 43
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'order_id' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 47
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'total' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 49
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'fullname' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 50
+[04-Mar-2020 12:38:27 America/New_York] PHP Notice:  Trying to get property 'sale_date' of non-object in /home/offtqnfa/public_html/Controller/updateOrderController.php on line 51
+[15-Mar-2020 12:20:27 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:20:44 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:21:38 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:21:45 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:22:02 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:23:07 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:24:02 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:24:29 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:25:14 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:27:02 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:29:28 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:31:05 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:40:59 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:42:13 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[15-Mar-2020 12:42:13 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[15-Mar-2020 12:43:20 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[15-Mar-2020 12:43:20 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[15-Mar-2020 12:45:25 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:47:01 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:55:35 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 12:55:55 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Black OTC Logo ...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Black OTC Logo ...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[15-Mar-2020 13:48:55 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[15-Mar-2020 13:48:55 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[15-Mar-2020 13:54:32 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[15-Mar-2020 13:54:32 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[15-Mar-2020 14:18:32 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[15-Mar-2020 14:18:32 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[15-Mar-2020 14:19:41 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[15-Mar-2020 14:19:41 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[15-Mar-2020 14:21:56 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[15-Mar-2020 14:21:56 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[30-Mar-2020 10:12:41 America/New_York] PHP Warning:  unlink(../SubProduct/Test check/81356.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[30-Mar-2020 10:12:41 America/New_York] PHP Warning:  unlink(../SubProduct/Test check/12271.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[30-Mar-2020 10:12:43 America/New_York] PHP Warning:  unlink(../SubProduct/Mens Black T/53108.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[30-Mar-2020 10:12:43 America/New_York] PHP Warning:  unlink(../SubProduct/Mens Black T/7550.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[30-Mar-2020 10:12:45 America/New_York] PHP Warning:  unlink(../SubProduct/Test 15032020/47268.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[30-Mar-2020 10:12:45 America/New_York] PHP Warning:  unlink(../SubProduct/Test 15032020/14854.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[30-Mar-2020 10:52:29 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[30-Mar-2020 10:52:29 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[30-Mar-2020 11:08:01 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[30-Mar-2020 11:08:01 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[30-Mar-2020 11:08:01 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[30-Mar-2020 11:11:16 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[30-Mar-2020 11:11:44 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[30-Mar-2020 11:12:01 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[30-Mar-2020 11:13:24 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[30-Mar-2020 11:13:41 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[30-Mar-2020 11:24:08 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 9
+[30-Mar-2020 11:24:08 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 39
+[30-Mar-2020 11:24:52 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:24:52 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:24:52 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:25:12 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:25:12 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:25:50 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:26:29 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:30:25 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:31:08 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 11:32:05 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[30-Mar-2020 17:54:53 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[31-Mar-2020 07:32:36 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 07:32:36 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 07:32:36 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 07:33:29 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 07:33:29 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 07:33:29 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 07:35:17 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[31-Mar-2020 07:36:20 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 07:36:20 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 07:36:20 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 07:37:28 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 07:42:28 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[31-Mar-2020 07:47:31 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 07:47:31 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 07:47:31 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 07:52:16 America/New_York] PHP Notice:  Undefined index: action in /home/offtqnfa/public_html/Controller/sliderdetailsadd.php on line 8
+[31-Mar-2020 08:03:44 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 08:03:44 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 08:03:44 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 08:18:12 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[31-Mar-2020 08:18:34 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Womens Small Lo...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Womens Small Lo...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[31-Mar-2020 08:19:49 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 08:19:49 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 08:33:49 America/New_York] PHP Warning:  unlink(../SubProduct/Shirt/87469.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[31-Mar-2020 08:33:49 America/New_York] PHP Warning:  unlink(../SubProduct/Shirt/65017.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[31-Mar-2020 08:33:58 America/New_York] PHP Warning:  unlink(../SubProduct/Cap/86222.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[31-Mar-2020 08:33:58 America/New_York] PHP Warning:  unlink(../SubProduct/Cap/62399.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[31-Mar-2020 08:34:03 America/New_York] PHP Warning:  unlink(../SubProduct/test Cap/20821.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[31-Mar-2020 08:34:03 America/New_York] PHP Warning:  unlink(../SubProduct/test Cap/75553.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[31-Mar-2020 08:34:05 America/New_York] PHP Warning:  unlink(../SubProduct/shorts/21311.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[31-Mar-2020 08:34:05 America/New_York] PHP Warning:  unlink(../SubProduct/shorts/91013.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[31-Mar-2020 08:34:07 America/New_York] PHP Warning:  unlink(../SubProduct/Cap/83878.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[31-Mar-2020 08:34:07 America/New_York] PHP Warning:  unlink(../SubProduct/Cap/59021.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[31-Mar-2020 08:34:09 America/New_York] PHP Warning:  unlink(../SubProduct/Official Large Logo Jumper /97254.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 22
+[31-Mar-2020 08:34:09 America/New_York] PHP Warning:  unlink(../SubProduct/Official Large Logo Jumper /12362.): No such file or directory in /home/offtqnfa/public_html/Controller/deleteproductcontroller.php on line 26
+[31-Mar-2020 08:43:43 America/New_York] PHP Fatal error:  Uncaught Exception: Please Enter Product Name in /home/offtqnfa/public_html/Model/Product.php:55
+Stack trace:
+#0 /home/offtqnfa/public_html/Model/Product.php(38): Product->set_product_name('Women\xE2\x80\x99s Small...')
+#1 /home/offtqnfa/public_html/Controller/addproduct.php(18): Product->__set('product_name', 'Women\xE2\x80\x99s Small...')
+#2 {main}
+  thrown in /home/offtqnfa/public_html/Model/Product.php on line 55
+[31-Mar-2020 08:44:25 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 08:44:25 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 08:44:25 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 08:45:23 America/New_York] PHP Notice:  Undefined variable: product_image in /home/offtqnfa/public_html/Model/Product.php on line 712
+[31-Mar-2020 08:45:23 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 08:45:23 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 08:47:08 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 08:47:08 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 09:06:01 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 09:06:01 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 09:08:32 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 09:08:32 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 09:08:32 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 09:09:53 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 09:09:53 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 09:09:53 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 09:11:11 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 09:11:11 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 09:11:11 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 09:12:28 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 09:12:28 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 09:12:28 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295
+[31-Mar-2020 09:13:43 America/New_York] PHP Notice:  Undefined variable: product_image in /home/offtqnfa/public_html/Model/Product.php on line 712
+[31-Mar-2020 09:13:43 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 09:13:43 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 09:49:36 America/New_York] PHP Notice:  Undefined variable: subproduct in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 09:49:36 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/offtqnfa/public_html/Model/Product.php on line 749
+[31-Mar-2020 10:00:19 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Slider.php on line 87
+[31-Mar-2020 10:00:19 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[31-Mar-2020 10:00:19 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[31-Mar-2020 10:00:50 America/New_York] PHP Notice:  Undefined index: imagehome1 in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 59
+[31-Mar-2020 10:00:50 America/New_York] PHP Notice:  Undefined index: imagehome in /home/offtqnfa/public_html/Controller/slidercontroller.php on line 63
+[31-Mar-2020 10:02:27 America/New_York] PHP Notice:  Undefined index: subcategory in /home/offtqnfa/public_html/Controller/addproduct.php on line 38
+[31-Mar-2020 10:02:27 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 257
+[31-Mar-2020 10:02:27 America/New_York] PHP Notice:  Undefined variable: extension in /home/offtqnfa/public_html/Model/Product.php on line 295

@@ -1,0 +1,24 @@
+[13-Jan-2020 03:22:27 America/New_York] PHP Warning:  include_once(Model/Product.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 4
+[13-Jan-2020 03:22:27 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/Product.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 4
+[13-Jan-2020 03:22:27 America/New_York] PHP Warning:  include_once(Model/showprodctdetailscart.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 5
+[13-Jan-2020 03:22:27 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/showprodctdetailscart.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 5
+[13-Jan-2020 03:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Product' not found in /home/offtqnfa/public_html/ofthecornernew/View/header.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 78
+[13-Jan-2020 03:22:42 America/New_York] PHP Warning:  include_once(Model/Product.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 4
+[13-Jan-2020 03:22:42 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/Product.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 4
+[13-Jan-2020 03:22:42 America/New_York] PHP Warning:  include_once(Model/showprodctdetailscart.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 5
+[13-Jan-2020 03:22:42 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/showprodctdetailscart.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 5
+[13-Jan-2020 03:22:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Product' not found in /home/offtqnfa/public_html/ofthecornernew/View/header.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 78
+[13-Jan-2020 03:22:57 America/New_York] PHP Warning:  include_once(Model/Product.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 4
+[13-Jan-2020 03:22:57 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/Product.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 4
+[13-Jan-2020 03:22:57 America/New_York] PHP Warning:  include_once(Model/showprodctdetailscart.php): failed to open stream: No such file or directory in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 5
+[13-Jan-2020 03:22:57 America/New_York] PHP Warning:  include_once(): Failed opening 'Model/showprodctdetailscart.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 5
+[13-Jan-2020 03:22:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Product' not found in /home/offtqnfa/public_html/ofthecornernew/View/header.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/offtqnfa/public_html/ofthecornernew/View/header.php on line 78

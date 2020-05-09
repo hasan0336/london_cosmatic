@@ -1,0 +1,454 @@
+@font-face {
+  font-family: TuesdayNight;
+  src: url(../fonts/TuesdayNight-Regular.otf);
+}
+/* Other CSS starts here*/
+
+body{
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+}
+
+.top-header{
+  text-align: center;
+  padding: 30px 0;
+}
+
+.home-right{
+  padding: 90px 0;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.home-right h3{
+  font-size: 50px;
+  font-family: "TuesdayNight";
+  text-transform: capitalize;
+  color: rgb(32, 164, 98);
+}
+
+.home-right .bg-heading{
+  background: url(../images2/brush-style.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: contain;
+  padding: 20px 120px;
+}
+
+.home-right .bg-heading h4{
+  font-size: 24px;
+  font-family: 'Cormorant', serif;
+  color: rgb(30, 30, 30);
+  font-weight: 700;
+  font-style: italic;
+  text-transform: capitalize;
+  margin: 0;
+}
+
+.home-right h1{
+  font-size: 45px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #1e1e1e;
+  font-weight: 300;
+}
+
+.section1-heading h2{
+  font-size: 38px;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.section1-left h3{
+  font-size: 29px;
+  font-family: 'Cormorant', serif;
+  color: rgb(108, 108, 108);
+  font-weight: 600;
+  font-style: italic;
+  text-align: center;
+  margin-bottom:  20px;
+}
+
+.section1-left p{
+  font-size: 18px;
+  font-family: 'Cormorant', serif;
+  font-weight: 500;
+  color: rgb(107, 107, 107);
+  text-align: center;
+}
+
+.section2-heading h2{
+  font-size: 38px;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.section2-box{
+  text-align: center;
+}
+
+.section2-box h3{
+  font-size: 18px;
+  color: rgb(30, 30, 30);
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+}
+
+.section2-box p{
+  font-size: 18px;
+  font-family: 'Cormorant', serif;
+  color: rgb(30, 30, 30);
+  font-weight: 500;
+  margin: 0;
+}
+
+.section2-box h5{
+  font-size: 28px;
+  font-family: 'Cormorant', serif;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+  margin: 0;
+}
+
+.section2-box img{
+  margin-bottom: 20px;
+}
+
+.section3-right{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  height: 100%;
+  padding-right: 120px;
+  padding-left: 20px;
+}
+
+.section3-right p{
+  font-size: 18px;
+  font-family: 'Cormorant', serif;
+  color: rgb(107, 107, 107);
+  font-weight: 500;
+  text-align: left;
+}
+
+.section4-left{
+  text-align: left;
+  padding:  50px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  height: 100%;
+}
+
+.section4-left h2{
+  font-size: 38px;
+  color: rgb(30, 30, 30);
+  text-transform: uppercase;
+}
+
+.section4-left h3 {
+  font-size: 26px;
+  color: rgb(30, 30, 30);
+  font-weight: 500;
+  margin: 20px 0;
+}
+
+.section4-left p {
+  font-size: 18px;
+  font-family: 'Cormorant', serif;
+  color: rgb(30, 30, 30);
+  font-weight: 500;
+  margin-bottom: 35px;
+  line-height: 24px;
+}
+
+.section5-heading{
+  text-align: center;
+}
+
+.section5-heading h2{
+  font-size: 38px;
+  font-weight: 400;
+  color: rgb(30, 30, 30);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.section5-heading p{
+  font-size: 29px;
+  font-family: 'Cormorant', serif;
+  color: rgb(30, 30, 30);
+  font-weight: 600;
+  font-style: italic;
+}
+
+.section5-btn{
+  text-align: center;
+  margin-top:  60px;
+}
+
+.section5-box{
+  margin-top: 40px;
+}
+
+.section6-left h3{
+  font-size: 45px;
+  font-family: 'Cormorant', serif;
+  color: rgb(150, 150, 150);
+  font-weight: 500;
+  font-style: italic;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.section6-left h3 img{
+  margin-left: 20px;
+}
+
+.section7-heading h2{
+  font-size: 30px;
+  color: rgb(30, 30, 30);
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.instagram-section{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.instagram-images{
+  width: 12.5%;
+  height: auto;
+}
+
+.middle-box{
+  text-align: center;
+  padding: 0 10px;
+}
+
+.first-box ul{
+  padding-left: 0;
+}
+
+.first-box ul li{
+  list-style: none;
+  line-height: 24px;
+}
+
+.first-box ul li a{
+  font-size: 16px;
+  font-family: "Cormorant";
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  text-align: left;
+}
+
+.first-box ul li a:hover{
+  color: #b37901;
+  transition: all .3s;
+  text-decoration: none;
+}
+
+.last-box{
+  text-align: right;
+}
+
+.last-box p{
+  font-size: 12px;
+  color: rgb(32, 164, 98);
+  text-align: right;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.b-right:not(:last-child){
+  border-right: 1px solid #20a462;
+}
+
+.middle-box p {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+
+
+/* OTHER CSS ends here*/
+
+/*Custom Navbar starts here*/
+
+.custom-navbar{
+  padding: 0;
+}
+
+.custom-navbar ul li{
+  margin: 0 30px;
+}
+
+.custom-navbar ul li a{
+  font-size: 14px;
+  font-weight: 400;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  position: relative;
+}
+
+.custom-navbar ul li a:before{
+  content: "";
+  position: absolute;
+  top:100%;
+  left:0;
+  width: 0;
+  border-bottom: 3px solid #b37901;
+  transition: all 0.4s linear;
+}
+
+.custom-navbar ul li a:hover:before{
+  width: 100%;
+}
+/*Custom Navbar ends here*/
+
+/* BUTTON CSS starts here*/
+.custom-btn {
+  font-size: 12px;
+  color: rgb(30, 30, 30);
+  text-transform: uppercase;
+  text-align: center;
+  border: 1px solid rgb(30, 30, 30);
+  border-radius: 0;
+  padding: 8px 45px;
+}
+
+.custom-btn:hover {
+  text-decoration: none;
+  background-color: #b37901;
+  border: 1px solid #b37901;
+  color: #fff;
+  transition: all .3s;
+}
+
+.custom-btn2 {
+  font-size: 12px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  background: #1e1e1e;
+  border: 1px #1e1e1e;
+  border-radius: 0;
+  padding: 8px 45px;
+}
+
+.custom-btn2:hover {
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid #1e1e1e;
+  color: #1e1e1e;
+  transition: all .3s;
+}
+
+/* BUTTON CSS ends here*/
+
+
+/* SECTIONS CSS starts here */
+
+/*.home-section {
+  margin: 50px 0;
+  background-color: #fff;
+  background-image: url(../images2/home-bg.png);
+  background-size: cover;
+  background-position: top left;
+}*/
+
+.section1 {
+  padding: 50px 0;
+  background-color: #fff;
+}
+
+.section2 {
+  padding: 50px;
+  background-color: #eeeeee;
+}
+
+.section3 {
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+}
+
+/*.section4 {
+  padding: 20px;
+  background-color: #fff;
+  background-image: url(../images2/section4-bg.png);
+  background-size: cover;
+  background-position: top left;
+}*/
+
+.section5 {
+  padding: 90px 0;
+  background-color: #fff;
+}
+
+/*.section6 {
+  padding: 80px;
+  background-color: #fff;
+  background-image: url(../images2/section6-bg.png);
+  background-size: cover;
+  background-position: top center;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}*/
+
+.section7 {
+  padding: 50px 0 0;
+  background-color: #fff;
+}
+
+.footer-section{
+  padding: 50px 0;
+  background-color: #000;
+}
+/* SECTIONS CSS ends here*/
+
+/*Scrollbar Designing starts here*/
+  /* width */
+  ::-webkit-scrollbar {
+    width: 15px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+    box-shadow: inset 0 0 5px grey;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 10px;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+    transition: all .3s linear;
+  }
+/*Scrollbar Desgining ends here*/
